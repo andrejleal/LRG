@@ -1,0 +1,6 @@
+{
+  "sourceFile" : "resources.xlsx",
+  "outputDirectory" : "output/",
+  "keyCellIndex" : 1,
+  "languageFirstCellIndex": 3
+}
