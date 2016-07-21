@@ -1,0 +1,22 @@
+{
+  "name": "lgr",
+  "version": "1.0.0",
+  "description": "LRG - Node.js Laravel Resource Generator From Excel (XLSX) ========================",
+  "main": "lrg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrejleal/LRG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrejleal/LRG/issues"
+  },
+  "homepage": "https://github.com/andrejleal/LRG#readme",
+  "dependencies": {
+    "node-xlsx": "^0.7.1"
+  }
+}
